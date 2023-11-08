@@ -4,5 +4,5 @@
 
 ![Architecture diagram](https://github.com/zubairkhatti/aws_data_pipeline/blob/main/architecture.jpeg)
 
-- To follow the detail documentaion for the project 
+- To follow the detail documentation for the project 
 [click here](https://github.com/zubairkhatti/aws_data_pipeline/blob/main/project_detail_documentation.pdf)
